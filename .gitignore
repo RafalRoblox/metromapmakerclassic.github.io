@@ -1,0 +1,11 @@
+*.pyc
+bin/
+lib/
+include/
+.DS_Store
+.Python
+untracked/
+backups/
+pip-selfcheck.json
+/static/
+pyvenv.cfg
